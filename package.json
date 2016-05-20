@@ -1,0 +1,8 @@
+{
+  "name": "nibbler-nginx",
+  "version": "1.0.0",
+  "dependencies": {
+    "nibbler-apt": "~0.1.0",
+    "nibbler-copy": "~0.1.0"
+  }
+}
